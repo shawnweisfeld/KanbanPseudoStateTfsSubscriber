@@ -1,0 +1,16 @@
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\KanbanPseudoStateTfsSubscriber.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\KanbanPseudoStateTfsSubscriber.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.TeamFoundation.Framework.Server.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Server.Dataaccesslayer.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Server.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\System.Web.Http.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.TeamFoundation.Server.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.TeamFoundation.Reporting.DataServices.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\bin\Debug\Microsoft.WITDataStore.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\obj\Debug\KanbanPseudoStateTfsSubscriber.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\obj\Debug\KanbanPseudoStateTfsSubscriber.dll
+c:\users\administrator\documents\visual studio 2013\Projects\KanbanPseudoStateTfsSubscriber\KanbanPseudoStateTfsSubscriber\obj\Debug\KanbanPseudoStateTfsSubscriber.pdb
