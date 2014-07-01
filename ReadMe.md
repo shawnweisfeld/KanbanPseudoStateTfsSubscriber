@@ -12,5 +12,7 @@ http://stackoverflow.com/questions/18193036/access-the-kanban-column-a-team-spec
 it was tested with FabrikamFiberCollection from the demo install of TFS 2013.2 provided by Brian Keller
 http://aka.ms/almvms
 
-
+Potential issues:
+=================
+* Work items that have multiple states
 
