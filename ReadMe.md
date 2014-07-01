@@ -19,6 +19,7 @@ it was tested with FabrikamFiberCollection from the demo install of TFS 2013.2 p
 Potential issues:
 -----------------
 * Work items that have multiple kanban pseudo-states
+* There is a delay between when you move the card and when the field gets updated. if you open the work item right after moving the card it will show the old state, and you will need to refresh the card to see the state change.
 
 Other Solutions:
 ----------------
