@@ -1,6 +1,6 @@
 About
 -----
-By default the Kanban column is not reportable. The goal of this TFS Server Plugin is to copy the Kanban column state to the work item where it will then flow through to the warehouse for reporting.
+By default the Kanban column is not reportable. The goal of this TFS Server Plugin is to copy the Kanban pseudo state to the work item where it will then flow through to the warehouse for reporting.
 
 
 Thank you:
@@ -18,5 +18,5 @@ it was tested with FabrikamFiberCollection from the demo install of TFS 2013.2 p
 
 Potential issues:
 -----------------
-* Work items that have multiple states
+* Work items that have multiple kanban pseudo-states
 
