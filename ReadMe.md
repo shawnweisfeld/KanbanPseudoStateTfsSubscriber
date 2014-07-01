@@ -20,3 +20,6 @@ Potential issues:
 -----------------
 * Work items that have multiple kanban pseudo-states
 
+Other Solutions:
+----------------
+* TFS 2013 Tabular and PowerPivot Kanban Model by Jeff Levinson (http://visualstudiogallery.msdn.microsoft.com/cc78e860-38c1-4e33-97eb-4e23ac4d4b9b)
